@@ -30,3 +30,5 @@ For more information visit: http://acm.ipec.org.in/
 Regards,
 TEAM ACM
 IPEC ACM STUDENT CHAPTER
+
+![image](https://user-images.githubusercontent.com/92802892/222906244-d74db3d3-3c91-468d-b3f7-75ec2ae58da4.png)
